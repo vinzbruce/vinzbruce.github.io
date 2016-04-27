@@ -1,0 +1,31 @@
+.header{
+  background-color: #4F8A7E;
+  font-family: Ravie;
+  color: white;
+  height: 2em;
+  padding-left: 3em;
+  padding-top: 1em;
+}
+.titleFont{
+font-size: 25px;
+
+}
+.header_font{
+font-weight: bold;
+}
+
+.link{
+padding-left:2em;
+padding-right:1em;
+text-decoration: none;
+color:#0C0F0F;
+font-size:15px;
+}
+.content{
+  background-color:#E9967A;
+}
+
+a:hover {
+    background-color: #7FA7A7;
+    color:white;
+}
